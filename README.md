@@ -1,6 +1,6 @@
 # mdq — a jq-like tool for markdown
 
-`mdq` lets you query, filter, and format markdown documents from the command line. Think `jq`, but for markdown.
+`mdq` lets you format (in terminal), filter and format markdown documents from the command line. Think `jq`, but for markdown.
 
 ## Features
 
@@ -14,12 +14,12 @@
 
 ```bash
 # Download the latest release binary
-curl -Lo mdq https://github.com/YOUR_USER/mdq/releases/latest/download/mdq-linux-amd64
+curl -Lo mdq https://github.com/malopeza1226/mdq/releases/latest/download/mdq-linux-amd64
 chmod +x mdq
 sudo mv mdq /usr/local/bin/
 
 # Or build from source
-git clone https://github.com/YOUR_USER/mdq.git
+git clone https://github.com/malopeza1226/mdq.git
 cd mdq
 go build -o mdq .           # requires Go 1.21+
 ```
