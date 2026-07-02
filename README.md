@@ -14,7 +14,7 @@
 
 ```bash
 # Download the latest release binary
-curl -Lo mdq https://github.com/malopeza1226/mdq/releases/latest/download/mdq-linux-amd64
+curl -Lo mdq https://github.com/malopeza1226/mdq/releases/latest/download/mdq-viewer.tar.gz
 chmod +x mdq
 sudo mv mdq /usr/local/bin/
 
