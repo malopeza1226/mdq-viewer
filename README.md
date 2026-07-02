@@ -1,4 +1,4 @@
-# mdq — a jq-like tool for markdown
+# A jq-like tool for markdown
 
 `mdq` lets you format (in terminal), filter and format markdown documents from the command line. Think `jq`, but for markdown.
 
